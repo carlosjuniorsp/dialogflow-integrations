@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "carlos-teste-bmsx",
+  "private_key_id": "f66ba4dd012be36cf1237c47dd1efd6d4011b32f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAuVghgLSH/yrA\nqCOluomkfvCDV0zSo/oK4ookVSw4+IU+PwqNXwol75nDYdkZ7SpZmkA3VQTEIRLR\nvg8AmGFR5e2AQ8PFHLEHmF61lZ/5r3Qr2xPxbccbP4RAf6KIWJCkulCEezLosLqM\nFwH5nt1RcVc1nV9Ai4xrPSHH/S7PXd/dcly4r4GY3DC+XDrUjIGtGj3pmcK9FtlV\nj/yZ8+ncY0hLz5qDkYfLX9Uf49HvULX/DH4UAr6Zim73disU+qY1QmTptT1Cp555\n2TLVPhQAFYwuxxcNIzvJDg3AABgWkVidlq63GPBmOYMTVHsC9HrNjgcqfakvOQTM\nXEj5niVLAgMBAAECggEAPM5duZhXnW8LSKTkNmZwBigM74usT+tvuV53knYTEViM\nBbMzO56IX6bEv2oQawcyrPmnmC2pZs4+l1GdfyUU05e1gxoeWwMt8cUH4Mf4JPnQ\nMAQbuzlVMEouioEawWUcIfUs8VfDnLoh6ZBazazrjEYz61UfWAiPgchUb7p4ufEJ\nopKrjdpeBcO33EIOdEsihx32Yx2i2jbiO5fRXLBhd+x0crNC+op5JsyGx1hLqZ1h\nud4Cap2dtrwTW5FVZGsqzC55XZZ+apCNYvCIaf/yQk1ZnBrPPfL6yEDw+F2a8aic\nJbiTO25TucyFFsbJR1b+usQwdtW7z0vCsYWkmo2MLQKBgQD8UIlxFzld8kdHf2kA\naO0/AYXa+v/T13TvwiG2MsPbhQApbl/8HQGsyRJu2zaEvsR6R9C5hNuv+yt/4UC6\nhlYzyzaPcYhOMhYn1VpAlCRctylrwPjw4jYjtwh9375n9xQ6GOLoh3+jxAvrL0fe\nVZuzpeMm9x/cNpFpnmcvAX5pdwKBgQDDifv3Z4VuTEZJWcR9IQP11tmYD/w95kX5\nhCcIB4z7n9IlLvDulgk1NFxyeJArfAtPThNsDgwU9ZhGCLL6wkAMxwvFeRGULyR7\n1687hCF7SQ0PZ/mZyXaYq8rTXXXy6cGZR8ZHDjt7vXsBJBCSuLifHng+EF0uCoTg\n8mo4beYXzQKBgDBRI+C6N8wbxzaT2YGwli4Ilp92jWL90XDQVjBTzFnPQFauwka/\nL0DtSFBePjRxa6KW+gtsu70Zdh0I/6I4c217rrkNXrLKuJ9sJdpUBBqVIKN30rQe\nPYvdUwz3ubijAgaWGW259OFhe37QEQ0si6J9U+B0Vm+PK410PgIsYQ7FAoGBAL/B\neEvlxC8nM6JJGuyOzQBwItEBlB7rzGFl3JT+Op6j24RFZVbD4eHAKIzFeLR8H+c0\nrM1BdU20jxDXBRXuGrutEvkjwj5sgL3GBP07lU3+lIUwNNFAhUIw7mWa+MkvvYBg\np6wU4/Z0GcVDpdEMv1ijm81ZZNd6z1Z9w/b0pzldAoGAZ5epaDr6lS331/IE4hjJ\nbVypuW5K4PqZLGugqWWuIvcAXxsfHwRf0xRlbtKzxwGAVFxRYXTrl1PhUIfE7DJw\n7C5H034C8G7SBKJC2axa2BKpiB/iC6IH0FYbV8mTMvmtl0qbaSPrv1vZY+t0TiEV\nMCbSgpbPHis6DbTw2QLW/IM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "integracao-carlos@carlos-teste-bmsx.iam.gserviceaccount.com",
+  "client_id": "112996886636406223317",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/integracao-carlos%40carlos-teste-bmsx.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
